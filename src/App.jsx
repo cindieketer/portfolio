@@ -12,6 +12,9 @@ function App() {
         </div>
       </div>
      <h1>Welcome to my Re</h1>
+     <div>
+      <img src="/brochure.jpg" alt="brochure" height={200} width={200}/>
+     </div>
     </div>
   );
 }
